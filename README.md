@@ -40,6 +40,7 @@ En el portfolio encontrarás una selección de proyectos personales, académicos
 - [GitHub](https://github.com/)
 - [Twitter](https://twitter.com/)
 
+Parte de el diseño que existe en `global.css` estuvo hecha con la herramienta v0.dev
 ---
 
 ## 🚀 Cómo desplegar el proyecto
