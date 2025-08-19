@@ -86,7 +86,7 @@ export default function Contact({ t }: ContactProps) {
           </p>
           <p className="flex items-center justify-center gap-2">
             <MessageCircle className="w-5 h-5 text-cyan-400" />
-            {t.discordContact} <span className="text-blue-300">Londra23</span>
+            {t.discordContact} <span className="text-blue-300">Londra23_</span>
           </p>
         </div>
       </div>
