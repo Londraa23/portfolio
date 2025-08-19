@@ -74,6 +74,7 @@ export default function Contact({ t }: ContactProps) {
           >
             {t.sendButton}
           </Button>
+          
         </form>
 
         <div className="mt-8 text-center text-gray-300 space-y-4">
